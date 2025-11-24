@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
         val stringCusto = binding.etCustoServico.text.toString()
         if (stringCusto.isEmpty()) {
             binding.tvResultadoGorjeta.text = ""
-            esconderTeclado(binding.etCustoServico);;
+            esconderTeclado(binding.etCustoServico)
             return
         }
 
