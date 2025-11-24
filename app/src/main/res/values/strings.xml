@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora Gorjeta</string>
+    <string name="custo_do_servico">Custo do Serviço</string>
+    <string name="qualidade_do_servico">Como foi o serviço?</string>
+    <string name="arredondar_gorjeta">Arredondar Gorjeta?</string>
+    <string name="calcular">Calcular</string>
+    <string name="valor_gorjeta">Valor da Gorjeta: R$ 0,00</string>
+    <string name="porcentagem_gorjeta_inicial">Gorjeta: 15%</string>
+    <string name="valor_invalido">Valor inválido</string>
+</resources>
